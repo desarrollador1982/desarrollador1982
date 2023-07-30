@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/desarrollador1982/desarrollador1982/main/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg "Header")]
+![Header](https://raw.githubusercontent.com/desarrollador1982/desarrollador1982/main/greg-rakozy-vw3Ahg4x1tY-unsplash.jpg "Header")
 
 > Desarrollo web, e-Learning y Front-end.
 
