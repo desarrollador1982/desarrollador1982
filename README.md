@@ -5,7 +5,7 @@
 
 
 ## Experiencia
-   - Desarrollador de eLearning, multimedia y desarrollo web. FrontEnd.Desarrollador de eLearning, multimedia y desarrollo web. FrontEnd.
+   - Desarrollador de eLearning, multimedia y desarrollo web. FrontEnd.
    *2013 - actualidad.*
     
 
