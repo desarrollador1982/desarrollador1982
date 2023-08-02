@@ -9,14 +9,14 @@ Desarrollador web y fontend
 <p dir="auto"><img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="width: 420px; height: 300px; max-width: 100%;"></p>
 
 <p dir="auto">
-Programador web y desarrollador frontend con una trayectoria profesional de más de 10 años, trabajado en diversos proyectos web y e-elearning y adquiriendo una amplia experiencia en el desarrollo de soluciones tecnológicas innovadoras y atractivas. 
+Programador web y desarrollador frontend con una trayectoria profesional de más de 10 años, trabajando en diversos proyectos web y e-elearning y adquiriendo una amplia experiencia en el desarrollo de soluciones tecnológicas innovadoras y atractivas. 
 <br>
 <br>
-Siempre intentando crear interfaces intuitivas y estéticamente agradables para los usuarios. Tranbajando con un amplio espectro de tecnologías web, incluyendo HTML, CSS, JavaScript, Wordpress y ahora me formo dominar frameworks como React, Laravel, Node... Siempre buscando aprender nuevos lenguajes y tecnologías. La educación continua es fundamental para mí, ya que creo que es la clave para mantenerme relevante y seguir entregando soluciones de alta calidad.
+Siempre intentando crear interfaces intuitivas y estéticamente agradables para los usuarios. Trabajando con un amplio espectro de tecnologías web, incluyendo HTML, CSS, JavaScript, Wordpress y ahora me formo para dominar frameworks como React, Laravel, Node... Siempre buscando aprender nuevos lenguajes y tecnologías. La educación continua es fundamental para mí, ya que creo que es la clave para mantenerse relevante y seguir entregando soluciones de alta calidad.
 
-* 🌍  Base en Asturas
-* 🖥️  Mi porfolio Proximanente.... 
-* 🧠  Aprendiendo React, NextJS, Node, Qwik
+* 🌍  Base en Asturias
+* 🖥️  Mi porfolio próximanente.... 
+* 🧠  Aprendiendo ... [ React, NextJS, Node, Qwik y más]
 </p>
 
 <br><br>
